@@ -147,3 +147,7 @@ public class Program
 			Console.WriteLine("Emprunt impossible");
 	}
 }
+// Une struct est une "variable" contenant plusieurs attributs différents.
+// Une liste est un ensemble d'éléments du même type qui a une taille variable
+// foreach signifie "pour chaque", il regarde chaque élément d'une liste
+// Lorsqu'une variable est déclarée à l'aide d'un des types de données intégrées de base ou d'une structure définie par l'utilisateur, il s'agit d'un type valeur.
